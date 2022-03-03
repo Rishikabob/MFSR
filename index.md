@@ -24,8 +24,8 @@ This server would display the screens of the respective students to the professo
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We would measure success by comparing the time it takes to solve a set number of students’ questions over the use of a cloud based server.
 
 ### References
-Spyware Starts Surveying Students - https://www.newhavenindependent.org/article/goguardian
+Spyware Starts Surveying Students - (https://www.newhavenindependent.org/article/goguardian)
 
-City leaders sign off on contract to surveil students’ technology usage during school day - https://yaledailynews.com/blog/2022/02/23/city-leaders-sign-off-on-contract-to-surveil-students-technology-usage-during-school-day/
+City leaders sign off on contract to surveil students’ technology usage during school day - (https://yaledailynews.com/blog/2022/02/23/city-leaders-sign-off-on-contract-to-surveil-students-technology-usage-during-school-day/)
 
-Zoom Privacy Statement - https://explore.zoom.us/en/privacy/
+Zoom Privacy Statement - (https://explore.zoom.us/en/privacy/)
