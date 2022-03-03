@@ -1,6 +1,6 @@
-# Student and Insrcutor Interactions
-## Problem Introduction
+# Student and Professor Interactions
 
+## Problem Introduction
 
   In traditional and scale-up classrooms dependent on computers, students and professors have difficulty communicating amongst one another regarding the work at hand. There are a multitude of factors that contribute to this issue. For instance, the properties of a traditional classroom include desks and chairs assembled in rows and columns. A scale-up classroom involves properties such as circular desks spread around the room. The layout of scale up classrooms signifies group work and easy mobility due to a large amount of space but it loses sight of student and instructor communication. Currently, scale-up classrooms do not afford professor and student communication due to a multitude of students and questions, and yet a lack of time.  It is difficult for professors to walk through the tiny spaces between the desks in traditional and scale-up settings. Teachers spend an unnecessary amount of time navigating through students to reach anyone with a question. This can also be an issue when there are multiple students with questions. In such a scenario, teachers are stuck not only trying to get to the students but also figuring out which student raised their hand first. 
 
