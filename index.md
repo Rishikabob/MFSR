@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Student & Insructor Interactions in Computer Based Classrooms
 
 You can use the [editor on GitHub](https://github.com/Rishikabob/MFSR/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
