@@ -10,14 +10,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The user population affected by our problem are professors and students at institutes of higher learning. A problem would occur during a laboratory setting where students and professors need to resolve issues within their code. The professors would be able to reach their students in a well-organized manner without the need to walk around the tiny spaces between desks. This would save their time and allow them to answer any individual and unique questions a student may have about their code. This situation can also apply to students as they do not need to wait in a line to meet with a professor.
 
-
 ## Current Solutions
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are several existing solutions that currently exist. For instance, students can practice screen sharing with their professors when they have a question. This can be done through zoom or even microsoft teams. However, for this to occur students and professors have to be on a call together. This can get very confusing especially when the students are sitting in the class in person. One way using such software can be helpful is that it can track which student has a question and which student doesn't. Zoom, for example, uses a ‘hand raise’ feature. Another existing solution is a software popularly known as classroom spyware. An example of this is GoGuardian which allows for teachers to view students' screens. In elementary classes, teachers are infamous for using these on students who are logged into their specific school assigned account. This type of software has spiked a lot of controversy over how controlling it seems. In addition, to use software such as this, the students have to use computers and computer log in accounts assigned by the school. They are unable to use personal machines. This would be impractical in a college setting where the students need extra time outside of the classroom to finish their work. 
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the use of screen sharing for example, students and professors need to keep in mind the privacy of the other party. Being a powerful tool means it has to follow some guidelines in order for it to be appropriate. These include only sharing the application of interest, and assuming what you share is already of public knowledge. For our users, when they need to share their screen with the professor they need keep in mind exactly what they are sharing. A current contender like zoom has a privacy statement clearly defining what they do and do not do with user data. (insert zoom privacy citation).
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the use of screen sharing for example, students and professors need to keep in mind the privacy of the other party. Being a powerful tool means it has to follow some guidelines in order for it to be appropriate. These include only sharing the application of interest, and assuming what you share is already of public knowledge. For our users, when they need to share their screen with the professor they need keep in mind exactly what they are sharing. A current contender like zoom has a privacy statement clearly defining what they do and do not do with user data.
 
 ## Proposed Solution
 
@@ -26,9 +23,9 @@ This server would display the screens of the respective students to the professo
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We would measure success by comparing the time it takes to solve a set number of students’ questions over the use of a cloud based server.
 
-
-
 ### References
 Spyware Starts Surveying Students - https://www.newhavenindependent.org/article/goguardian
+
 City leaders sign off on contract to surveil students’ technology usage during school day - https://yaledailynews.com/blog/2022/02/23/city-leaders-sign-off-on-contract-to-surveil-students-technology-usage-during-school-day/
+
 Zoom Privacy Statement - https://explore.zoom.us/en/privacy/
