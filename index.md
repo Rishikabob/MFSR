@@ -1,41 +1,32 @@
+# Student and Insrcutor Interactions
 ## Problem Introduction
 
 
-In traditional and scale-up classrooms dependent on computers, students and professors have difficulty communicating amongst one another regarding the work at hand. There are a multitude of factors that contribute to this issue. For instance, the properties of a traditional classroom include desks and chairs assembled in rows and columns. A scale-up classroom involves properties such as circular desks spread around the room. The layout of scale up classrooms signifies group work and easy mobility due to a large amount of space but it loses sight of student and instructor communication. Currently, scale-up classrooms do not afford professor and student communication due to a multitude of students and questions, and yet a lack of time.  It is difficult for professors to walk through the tiny spaces between the desks in traditional and scale-up settings. Teachers spend an unnecessary amount of time navigating through students to reach anyone with a question. This can also be an issue when there are multiple students with questions. In such a scenario, teachers are stuck not only trying to get to the students but also figuring out which student raised their hand first. 
+  In traditional and scale-up classrooms dependent on computers, students and professors have difficulty communicating amongst one another regarding the work at hand. There are a multitude of factors that contribute to this issue. For instance, the properties of a traditional classroom include desks and chairs assembled in rows and columns. A scale-up classroom involves properties such as circular desks spread around the room. The layout of scale up classrooms signifies group work and easy mobility due to a large amount of space but it loses sight of student and instructor communication. Currently, scale-up classrooms do not afford professor and student communication due to a multitude of students and questions, and yet a lack of time.  It is difficult for professors to walk through the tiny spaces between the desks in traditional and scale-up settings. Teachers spend an unnecessary amount of time navigating through students to reach anyone with a question. This can also be an issue when there are multiple students with questions. In such a scenario, teachers are stuck not only trying to get to the students but also figuring out which student raised their hand first. 
 
-This issue pertains to face-to-face instruction in computing education since it involves classrooms that are fully synchronous and in-person. This issue depends on the use of computers for instruction and affects both instructors and students.
+  This issue pertains to face-to-face instruction in computing education since it involves classrooms that are fully synchronous and in-person. This issue depends on the use of computers for instruction and affects both instructors and students.
 
-The main goal of the student when he or she has a question is to get that question answered. The execution towards getting this question answered involves a plan, action sequence of identifying the behavior and performing the planned action. The action taken by a student is usually raising their hand in the air to indicate to the professor that he or she has a question. The perception of this action is whether it worked or not. Sometimes, the teacher notices right away and is able to attend to the matter. Other times, there are other students who need to be attended to first. This usual action does result in the desired goal, and the student can compare the outcome with the goal. This interaction is very typical because it has been witnessed multiple times. 
+  The main goal of the student when he or she has a question is to get that question answered. The execution towards getting this question answered involves a plan, action sequence of identifying the behavior and performing the planned action. The action taken by a student is usually raising their hand in the air to indicate to the professor that he or she has a question. The perception of this action is whether it worked or not. Sometimes, the teacher notices right away and is able to attend to the matter. Other times, there are other students who need to be attended to first. This usual action does result in the desired goal, and the student can compare the outcome with the goal. This interaction is very typical because it has been witnessed multiple times. 
+
+  The user population affected by our problem are professors and students at institutes of higher learning. A problem would occur during a laboratory setting where students and professors need to resolve issues within their code. The professors would be able to reach their students in a well-organized manner without the need to walk around the tiny spaces between desks. This would save their time and allow them to answer any individual and unique questions a student may have about their code. This situation can also apply to students as they do not need to wait in a line to meet with a professor.
 
 
-### Markdown
+## Current Solutions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  There are several existing solutions that currently exist. For instance, students can practice screen sharing with their professors when they have a question. This can be done through zoom or even microsoft teams. However, for this to occur students and professors have to be on a call together. This can get very confusing especially when the students are sitting in the class in person. One way using such software can be helpful is that it can track which student has a question and which student doesn't. Zoom, for example, uses a ‘hand raise’ feature. Another existing solution is a software popularly known as classroom spyware. An example of this is GoGuardian which allows for teachers to view students' screens. In elementary classes, teachers are infamous for using these on students who are logged into their specific school assigned account. This type of software has spiked a lot of controversy over how controlling it seems. In addition, to use software such as this, the students have to use computers and computer log in accounts assigned by the school. They are unable to use personal machines. This would be impractical in a college setting where the students need extra time outside of the classroom to finish their work. 
+  
+  With the use of screen sharing for example, students and professors need to keep in mind the privacy of the other party. Being a powerful tool means it has to follow some guidelines in order for it to be appropriate. These include only sharing the application of interest, and assuming what you share is already of public knowledge. For our users, when they need to share their screen with the professor they need keep in mind exactly what they are sharing. A current contender like zoom has a privacy statement clearly defining what they do and do not do with user data. (insert zoom privacy citation).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Proposed Solution
+  Our proposed solution to the issue of students and professors having difficulty communicating for the work at hand in traditional and scale-up classrooms dependent on computers involves the use of a cloud-based server.
+This server would display the screens of the respective students to the professor and allow seamless communication through the use of a chat box and remote control. The chat box would solve the need to communicate the problem at hand. The remote control and screenshare would allow the professor to look through the student’s code and make any changes if needed. An existing solution such as Zoom is created for remote communication. Since both users will be in the same location, there is a need for a communication tool that allows quick and seamless communication. 
 
-1. Numbered
-2. List
+  We would measure success by comparing the time it takes to solve a set number of students’ questions over the use of a cloud based server.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rishikabob/MFSR/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+### Citations
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
