@@ -30,4 +30,5 @@ City leaders sign off on contract to surveil students’ technology usage during
 
 Zoom Privacy Statement - [https://explore.zoom.us/en/privacy/](url)
 
-##[Home](index.md)
+##Back to home
+[Home](index.md)
