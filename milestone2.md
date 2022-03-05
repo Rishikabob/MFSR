@@ -1,4 +1,4 @@
-# Student and Professor Interactions
+# Milestone 2
 
 ## Problem Introduction
 
