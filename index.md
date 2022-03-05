@@ -29,3 +29,6 @@ Spyware Starts Surveying Students - [https://www.newhavenindependent.org/article
 City leaders sign off on contract to surveil students’ technology usage during school day - [https://yaledailynews.com/blog/2022/02/23/city-leaders-sign-off-on-contract-to-surveil-students-technology-usage-during-school-day/](url)
 
 Zoom Privacy Statement - [https://explore.zoom.us/en/privacy/](url)
+
+[a relative link](milestone2.md)
+
