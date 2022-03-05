@@ -23,6 +23,10 @@ This server would display the screens of the respective students to the professo
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We would measure success by comparing the time it takes to solve a set number of students’ questions over the use of a cloud based server.
 
+## Video
+
+
+
 ### References
 Spyware Starts Surveying Students - [https://www.newhavenindependent.org/article/goguardian](url)
 
