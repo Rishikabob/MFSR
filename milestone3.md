@@ -29,8 +29,8 @@
     > This user story is a main part of our application. We chose it since we don't want the professor to be cluttered with questions that are the same.
 
 #### Justification
-Out of all the user stories we created, we decided to choose these four as the main ones we wanted to focus on. For the functionality of the application we wanted to make sure our user stories covered what we wanted in our application. We chose the [first user story](#u1) since a chat functionality would expedite the time between a student having a question and a teacher giving a response [1]. For the [second user story](#u2), we wanted to include a way to notify the professor that a student has an urgent issue that a simple chat box would not resolve. This function can either warrant the professor calling up the student or if possible, continue the conversation on the chat box. We believe that having an alert system for the professor will make it easier for students to address issues. 
-The [third user story](#u3) allows the professor to see the students screen right at their desk which can make it easier for the professor to spot errors and correct them. With the [fourth user story](#u4), sometimes the professor can get cluttered with the same question and only wants to answer it once. With the feature of common questions, a student can first look at the common questions to see if their issue was already addressed there before chatting with the professor. Overall, these 4 user stories allow a student to easily ask for help. Students often become too shy or worry about asking questions in front of the whole class [2] and having the ability to quickly ask for help will benefit both the professor and the student. 
+Out of all the user stories we created, we decided to choose these four as the main ones we wanted to focus on. For the functionality of the application we wanted to make sure our user stories covered what we wanted in our application. We chose the [first user story](#u1) since a chat functionality would expedite the time between a student having a question and a teacher giving a response [[1]](#1). For the [second user story](#u2), we wanted to include a way to notify the professor that a student has an urgent issue that a simple chat box would not resolve. This function can either warrant the professor calling up the student or if possible, continue the conversation on the chat box. We believe that having an alert system for the professor will make it easier for students to address issues. 
+The [third user story](#u3) allows the professor to see the students screen right at their desk which can make it easier for the professor to spot errors and correct them. With the [fourth user story](#u4), sometimes the professor can get cluttered with the same question and only wants to answer it once. With the feature of common questions, a student can first look at the common questions to see if their issue was already addressed there before chatting with the professor. Overall, these 4 user stories allow a student to easily ask for help. Students often become too shy or worry about asking questions in front of the whole class [[2]](#2) and having the ability to quickly ask for help will benefit both the professor and the student. 
 
 
 ## B. Ideation and Preliminary Designs
@@ -126,9 +126,9 @@ For each idea in its respective user story, we created a wireframe for how that 
 
 
 ### References
-[1]“Active Learning for the College Classroom.” Cal State LA, 4 Feb. 2022, www.calstatela.edu/dept/chem/chem2/Active/main.htm.
+<a name="1"></a>[1]“Active Learning for the College Classroom.” Cal State LA, 4 Feb. 2022, www.calstatela.edu/dept/chem/chem2/Active/main.htm.
 
-[2] “When Students Do Not Ask Questions in Class.” Tenney School, 14 Feb. 2022, tenneyschool.com/when-students-do-not-ask-questions-in-class/. 
+<a name="2"></a>[2] “When Students Do Not Ask Questions in Class.” Tenney School, 14 Feb. 2022, tenneyschool.com/when-students-do-not-ask-questions-in-class/. 
 
 
 
