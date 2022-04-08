@@ -36,7 +36,7 @@ The [third user story](#u3) allows the professor to see the students screen righ
 ## B. Ideation and Preliminary Designs
 
 ### Idea Generation
-For each userstory, we generates numerous ideas on how we want the app the function in respect to that user story. We also tried to think of some desgin descisions to make for each user story that would benifit the user. From each list of ideas, we discussed and voted on each idea and decided to go forward with the top 3 choices. The **bold** ideas is what we chose.
+For each user story, we generated numerous ideas on how we want the app to function in respect to each user story. We also tried to think of some desgin descisions to make for each user story that would benefit the user. From each list of ideas, we discussed and voted on each idea and decided to go forward with the top 3 choices. The **bold** ideas represents what we chose as our top idea.
 
 #### User Story 1 ideas
 * **From the teachers perspective, the chatbox should show all the students and their most recent message under it. The teacher should then be able to click on the name and the chat history should appear.**
