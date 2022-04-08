@@ -36,7 +36,7 @@ The [third user story](#u3) allows the professor to see the students screen righ
 ## B. Ideation and Preliminary Designs
 
 ### Idea Generation
-For each user story, we generated numerous ideas on how we want the app to function in respect to each user story. We also tried to think of some desgin descisions to make for each user story that would benefit the user. From each list of ideas, we discussed and voted on each idea and decided to go forward with the top 3 choices. The **bold** ideas represents what we chose as our top idea.
+For each user story, we generated numerous ideas on how we want the app to function in respect to each user story. We also tried to think of desgin descisions for each user story that would benefit the user. From each list of ideas, we discussed and voted on each idea and decided to go forward with the top 3 choices. The **bold** ideas represents what we chose as our top idea.
 
 #### User Story 1 ideas
 * **From the teachers perspective, the chatbox should show all the students and their most recent message under it. The teacher should then be able to click on the name and the chat history should appear.**
@@ -134,7 +134,7 @@ For each idea in its respective user story, we created a wireframe for how that 
 
 ## Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qh4kHWwRvIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-(https://www.youtube.com/watch?v=qh4kHWwRvIc)
+[Video Link](https://www.youtube.com/watch?v=qh4kHWwRvIc)
 
 
 ### References
@@ -142,6 +142,7 @@ For each idea in its respective user story, we created a wireframe for how that 
 
 <a name="2"></a>[2] “When Students Do Not Ask Questions in Class.” Tenney School, 14 Feb. 2022, tenneyschool.com/when-students-do-not-ask-questions-in-class/. 
 
+Other references listed in each figma file.
 
 
 ## [Home](index.md)
