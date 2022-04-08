@@ -7,5 +7,6 @@ These issues are also prevalent within scale-up classrooms. These classrooms pro
 
 ## Milestone Links
 [Milestone 2](milestone2.md)
+
 [Milestone 3](milestone3.md)
 
