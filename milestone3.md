@@ -35,35 +35,36 @@
 For each userstory, we generates numerous ideas on how we want the app the function in respect to that user story. We also tried to think of some desgin descisions to make for each user story that would benifit the user. From each list of ideas, we discussed and voted on each idea and decided to go forward with the top 3 choices. The **bold** ideas is what we chose.
 
 #### User Story 1 ideas
-* **From the teachers perspective, the chatbox should show all the students and their most recent message under it. The teacher should then be able to click on the name and the chat history should appear.
+* **From the teachers perspective, the chatbox should show all the students and their most recent message under it. The teacher should then be able to click on the name and the chat history should appear.**
 * The chatbox is always visible on the users screen and the most recent message pops up on the top corner, the user can then click on the message to continue chatting
-* **While anywhere in the app the chat service should always be accessible and the list should show the most recent messages at the top in a different color to the rest of the messages. 
+* **While anywhere in the app the chat service should always be accessible and the list should show the most recent messages at the top in a different color to the rest of the messages.**
 * Students can group their chats together if they wish to make their questions public.
-* **Students can answer and explain questions that are made public by other students and resolve the chat. 
+* **Students can answer and explain questions that are made public by other students and resolve the chat.**
 * As a teacher, I want to be able to disable the chat feature of any students if they are spamming a chatbox.
 
 #### User Story 2 ideas
-* **From the student’s perspective, the alert button should be visible on the screen at all times and should clearly show what number in the queue they are. * The student should be able to send along with the alert to tell the professor specifically what they are confused about.
-* **The alert can be embedded into the chat feature and the student has the option to click the alert and send an urgent message to the professor or just send a general chat.
+* **From the student’s perspective, the alert button should be visible on the screen at all times and should clearly show what number in the queue they are.** 
+* The student should be able to send along with the alert to tell the professor specifically what they are confused about.
+* **The alert can be embedded into the chat feature and the student has the option to click the alert and send an urgent message to the professor or just send a general chat.**
 * The students can label their alerts and make them public so that other students can also join the alert.
 * The student can disable their alert button.
 * The teacher can disable the alert button for students to stop them from abusing the system or while teaching.
-* **The alert button should be accessible from any page in the app. 
+* **The alert button should be accessible from any page in the app.** 
 
 #### User Story 3 ideas
 * From the teacher’s perspective, the entire screen must be shared in order to help the student with the appropriate needs 
-* **As a teacher, I want to be able to type a student’s name into a search to quickly find their screen.
-* **As a teacher, I want to be able to pin a specific student’s screen to mine to easily see what they are working on. 
-* **As a teacher, I want to be able to sort the order of the screens by the queue the students are in. 
+* **As a teacher, I want to be able to type a student’s name into a search to quickly find their screen.**
+* **As a teacher, I want to be able to pin a specific student’s screen to mine to easily see what they are working on. **
+* **As a teacher, I want to be able to sort the order of the screens by the queue the students are in. **
 * As a teacher, I want to be able to minimize the screens of students who do not need help so that I can more easily see other students’ screens. 
 
 
 #### User Story 4 ideas
 * From the student’s perspective, the student can group their chats together with a specific label. Other students can vote on specific questions to indicate that they have similar questions. Alternatively, students can also just answer each other’s questions when they see fit.
-* **From the teacher’s perspective, questions can be ordered from most common to least common. 
-* **From the teacher’s perspective, I want to be able to pin certain questions and answers to the top of the chatbox. 
+* **From the teacher’s perspective, questions can be ordered from most common to least common. **
+* **From the teacher’s perspective, I want to be able to pin certain questions and answers to the top of the chatbox. **
 * As a student, I want to be able to search keywords to filter questions that may have been asked already.
-* **Students can save certain questions they find helpful into an archive so they may refer back to them at a later date for different projects. 
+* **Students can save certain questions they find helpful into an archive so they may refer back to them at a later date for different projects. **
 
 
 
