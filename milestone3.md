@@ -54,17 +54,17 @@ For each userstory, we generates numerous ideas on how we want the app the funct
 #### User Story 3 ideas
 * From the teacher’s perspective, the entire screen must be shared in order to help the student with the appropriate needs 
 * **As a teacher, I want to be able to type a student’s name into a search to quickly find their screen.**
-* **As a teacher, I want to be able to pin a specific student’s screen to mine to easily see what they are working on. **
-* **As a teacher, I want to be able to sort the order of the screens by the queue the students are in. **
+* **As a teacher, I want to be able to pin a specific student’s screen to mine to easily see what they are working on.**
+* **As a teacher, I want to be able to sort the order of the screens by the queue the students are in.**
 * As a teacher, I want to be able to minimize the screens of students who do not need help so that I can more easily see other students’ screens. 
 
 
 #### User Story 4 ideas
 * From the student’s perspective, the student can group their chats together with a specific label. Other students can vote on specific questions to indicate that they have similar questions. Alternatively, students can also just answer each other’s questions when they see fit.
-* **From the teacher’s perspective, questions can be ordered from most common to least common. **
-* **From the teacher’s perspective, I want to be able to pin certain questions and answers to the top of the chatbox. **
+* **From the teacher’s perspective, questions can be ordered from most common to least common.**
+* **From the teacher’s perspective, I want to be able to pin certain questions and answers to the top of the chatbox.**
 * As a student, I want to be able to search keywords to filter questions that may have been asked already.
-* **Students can save certain questions they find helpful into an archive so they may refer back to them at a later date for different projects. **
+* **Students can save certain questions they find helpful into an archive so they may refer back to them at a later date for different projects.**
 
 
 
