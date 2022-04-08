@@ -16,20 +16,24 @@
 
 ### Most relevant User Stories
 
-1. As a teacher I want to be able to communicate to my students though a simple chat box so that I can quickly communicate any concerning issues.
+1. <a name="u1"></a>As a teacher I want to be able to communicate to my students though a simple chat box so that I can quickly communicate any concerning issues.
     > This is a relevant user story because it allows instant, nonverbal communication between a student and professor which enables the professor to quickly understand and locate the problem the student is having.
 
-2. As a student, I want to be able to alert my professor that I have a question so that I can receive help.
+2. <a name="u2"></a>As a student, I want to be able to alert my professor that I have a question so that I can receive help.
     > This is a relevant user story because it initiates the conversation between the student and the teacher. This feature is also good since the professor can quickly see who needs help as the alert would be right on their screen 
 
-3. As a teacher, I want to be able to see my students’ screens so that I can quickly focus my attention on a student that needs help.
+3. <a name="u3"></a>As a teacher, I want to be able to see my students’ screens so that I can quickly focus my attention on a student that needs help.
     > This user story is relevant because when working on an in class assignment or quick coding session, the professor can see how each student is progressing and can address a student who seems to be struggling without the student explicitly asking for help. The teacher can also give tips to certain students. 
 
-4. As a student I want to see questions and answers to common questions at the top so that the same question is not being answered multiple times
-    > This
+4. <a name="u4"></a>As a student I want to see questions and answers to common questions at the top so that the same question is not being answered multiple times
+    > This user story is a main part of our application. We chose it since we don't want the professor to be cluttered with questions that are the same.
+
+#### Justification
+Out of all the user stories we created, we decided to choose these four as the main ones we wanted to focus on. For the functionality of the application we wanted to make sure our user stories covered what we wanted in our application. We chose the [first user story](#u1) since a chat functionality would expedite the time between a student having a question and a teacher giving a response [1]. For the [second user story](#u2), we wanted to include a way to notify the professor that a student has an urgent issue that a simple chat box would not resolve. This function can either warrant the professor calling up the student or if possible, continue the conversation on the chat box. We believe that having an alert system for the professor will make it easier for students to address issues. 
+The [third user story](#u3) allows the professor to see the students screen right at their desk which can make it easier for the professor to spot errors and correct them. With the [fourth user story](#u4), sometimes the professor can get cluttered with the same question and only wants to answer it once. With the feature of common questions, a student can first look at the common questions to see if their issue was already addressed there before chatting with the professor. Overall, these 4 user stories allow a student to easily ask for help. Students often become too shy or worry about asking questions in front of the whole class [2] and having the ability to quickly ask for help will benefit both the professor and the student. 
+
 
 ## B. Ideation and Preliminary Designs
-
 
 ### Idea Generation
 For each userstory, we generates numerous ideas on how we want the app the function in respect to that user story. We also tried to think of some desgin descisions to make for each user story that would benifit the user. From each list of ideas, we discussed and voted on each idea and decided to go forward with the top 3 choices. The **bold** ideas is what we chose.
@@ -122,11 +126,10 @@ For each idea in its respective user story, we created a wireframe for how that 
 
 
 ### References
-Spyware Starts Surveying Students - [https://www.newhavenindependent.org/article/goguardian](url)
+[1]“Active Learning for the College Classroom.” Cal State LA, 4 Feb. 2022, www.calstatela.edu/dept/chem/chem2/Active/main.htm.
 
-City leaders sign off on contract to surveil students’ technology usage during school day - [https://yaledailynews.com/blog/2022/02/23/city-leaders-sign-off-on-contract-to-surveil-students-technology-usage-during-school-day/](url)
+[2] “When Students Do Not Ask Questions in Class.” Tenney School, 14 Feb. 2022, tenneyschool.com/when-students-do-not-ask-questions-in-class/. 
 
-Zoom Privacy Statement - [https://explore.zoom.us/en/privacy/](url)
 
 
 ## [Home](index.md)
