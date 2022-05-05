@@ -6,11 +6,11 @@
 
 The User Stories below is what we implemented in our Teacher View prototype.
 #### User Story 1
-1. As a teacher I want to be able to communicate to my students though a simple chat box so that I can quickly communicate any concerning issues.
+- As a teacher I want to be able to communicate to my students though a simple chat box so that I can quickly communicate any concerning issues.
 #### Demo Video
 
 #### User Story 2
-2. As a teacher, I want to be able to see my students’ screens so that I can quickly focus my attention on a student that needs help.
+- As a teacher, I want to be able to see my students’ screens so that I can quickly focus my attention on a student that needs help.
 #### Demo Video
 
 ##### Prototype
@@ -26,11 +26,11 @@ The User Stories below is what we implemented in our Teacher View prototype.
 The User Stories below is what we implemented in our Student View prototype.
 
 #### User Story 3
-3. As a student, I want to be able to alert my professor that I have a question so that I can receive help.
+- As a student, I want to be able to alert my professor that I have a question so that I can receive help.
 #### Demo Video
 
 #### User Story 4
-4. As a student I want to see questions and answers to common questions at the top so that the same question is not being answered multiple times
+- As a student I want to see questions and answers to common questions at the top so that the same question is not being answered multiple times
 #### Demo Video
 
 
