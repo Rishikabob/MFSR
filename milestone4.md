@@ -19,6 +19,7 @@ The User Stories below is what we implemented in our first prototype.
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F2jdxFWFSppvaT0ufsrkUoz%2FStudent-View-Protoype%3Fnode-id%3D25%253A328%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D7%253A51%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
 ##### Screen Shots
+![Teacher View Prototype](Teacher View Proto.png)
 
 [Link to figma file](https://www.figma.com/file/2jdxFWFSppvaT0ufsrkUoz/Student-View-Protoype?node-id=0%3A1) 
 
@@ -38,6 +39,7 @@ The User Stories below is what we implemented in our second prototype.
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fb23fewnEyw6ymh97GU7s4A%2FTeacher-View-Prototype%3Fnode-id%3D2%253A2%26starting-point-node-id%3D2%253A2" allowfullscreen></iframe>
 
 ##### Screen Shots
+![Student View Prototype](Student View Proto.png)
 
 [Link to figma file](https://www.figma.com/file/b23fewnEyw6ymh97GU7s4A/Teacher-View-Prototype?node-id=8%3A69) 
 
