@@ -12,7 +12,7 @@ The User Stories below is what we implemented in our first prototype.
 
 
 2. <a name="u3"></a>As a teacher, I want to be able to see my students’ screens so that I can quickly focus my attention on a student that needs help.
-    > This user story is relevant because when working on an in class assignment or quick coding session, the professor can see how each student is progressing and can address a student who seems to be struggling without the student explicitly asking for help. The teacher can also give tips to certain students. 
+
 #### Demo Video
 
 ##### Prototype
@@ -27,11 +27,9 @@ The User Stories below is what we implemented in our first prototype.
 The User Stories below is what we implemented in our second prototype.
 
 1. <a name="u2"></a>As a student, I want to be able to alert my professor that I have a question so that I can receive help.
-    > This is a relevant user story because it initiates the conversation between the student and the teacher. This feature is also good since the professor can quickly see who needs help as the alert would be right on their screen
 #### Demo Video
 
 2. <a name="u4"></a>As a student I want to see questions and answers to common questions at the top so that the same question is not being answered multiple times
-    > This user story is a main part of our application. We chose it since we don't want the professor to be cluttered with questions that are the same.
 
 #### Demo Video
 
