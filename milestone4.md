@@ -8,10 +8,12 @@ The User Stories below is what we implemented in our Teacher View prototype.
 #### User Story 1
 - As a teacher I want to be able to communicate to my students though a simple chat box so that I can quickly communicate any concerning issues.
 #### Demo Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T7bWwazXEOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### User Story 2
 - As a teacher, I want to be able to see my students’ screens so that I can quickly focus my attention on a student that needs help.
 #### Demo Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GgxTgYFkXKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Prototype
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fb23fewnEyw6ymh97GU7s4A%2FTeacher-View-Prototype%3Fnode-id%3D2%253A2%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D2%253A2" allowfullscreen></iframe>
@@ -28,10 +30,12 @@ The User Stories below is what we implemented in our Student View prototype.
 #### User Story 3
 - As a student, I want to be able to alert my professor that I have a question so that I can receive help.
 #### Demo Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4I2C-oEIqXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### User Story 4
 - As a student I want to see questions and answers to common questions at the top so that the same question is not being answered multiple times
 #### Demo Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eP3xMGDEoXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ##### Prototype
