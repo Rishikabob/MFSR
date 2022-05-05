@@ -40,7 +40,7 @@ The User Stories below is what we implemented in our Student View prototype.
 ##### Screen Shots
 ![Student View Prototype](Student View Proto.png)
 
-[Link to figma file](https://www.figma.com/file/b23fewnEyw6ymh97GU7s4A/Teacher-View-Prototype?node-id=8%3A69) 
+[Link to figma file](https://www.figma.com/file/2jdxFWFSppvaT0ufsrkUoz/Student-View-Protoype?node-id=0%3A1) 
 
 ## B. Testing Protocol
 
