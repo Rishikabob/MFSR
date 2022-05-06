@@ -72,9 +72,9 @@ The User Stories below is what we implemented in our Student View prototype.
   - We will be collecting quantitative and qualitative data. For the quantitative data, we plan on monitoring how long it takes for the professor to answer students' questions in both the experimental and control groups. We also want to see how fast the students are able to answer each other’s questions. Furthermore, we plan to keep track of how many questions are asked in a classroom with the application and how many questions are asked in a classroom without it. We want to be able to differentiate each data point by different class levels as well as majors. We want to answer which class level tends to increase in questions asked and time in which each question is answered the most? Which major? Why? What are some techniques we can recommend to the users to help them maximize their use of the product based on how their peers react? We want to put numbers to some questions and statements to help us evaluate the success of the product. For the professors, we are looking to see how many students the professors are able to reach in both the control groups and the experimental groups. 
   - From our focus groups, we plan on gathering qualitative data. We want to ask questions that will expose the effect of the study on the students. We want to know their thoughts, concerns and opinions on the product. We plan on asking unbiased and non leading questions such as:
 
-    > - <span style="color:aquamarine">Was it easy or difficult to get your questions answered in a timely manner?</span> 
-    > - <span style="color:aquamarine">To what extent did you feel like you were helped with your question answered by students and professors alike?</span> 
-    > - <span style="color:aquamarine">Please rate your overall experience with the application on a scale of 1-5.</span> 
+    > - <span style="color:seagreen">Was it easy or difficult to get your questions answered in a timely manner?</span> 
+    > - <span style="color:seagreen">To what extent did you feel like you were helped with your question answered by students and professors alike?</span> 
+    > - <span style="color:seagreen">Please rate your overall experience with the application on a scale of 1-5.</span> 
   
   - We also wish to have a focus group for professors where we ask similar questions, but geared more towards them. 
 
