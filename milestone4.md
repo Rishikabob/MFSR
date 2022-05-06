@@ -85,8 +85,8 @@ The User Stories below is what we implemented in our Student View prototype.
   - To ensure the safety of all of our participants, we will follow the CDC guidelines for COVID-19 in schools and other educational settings. We will recommend the use of masks, and seat students at a safe distance from one another. The researchers, themselves, will be wearing masks. 
 
 ## C. Summary Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qh4kHWwRvIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[Video Link](https://www.youtube.com/watch?v=qh4kHWwRvIc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mdHeUfOXa8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Video Link](https://youtu.be/mdHeUfOXa8c)
 
 
 
