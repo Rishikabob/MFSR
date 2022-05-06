@@ -33,7 +33,7 @@ The User Stories below is what we implemented in our Student View prototype.
 
 #### User Story 3
 - **As a student, I want to be able to alert my professor that I have a question so that I can receive help.**
-  - In this user story, the student will always have the top menu bar active no matter what other application they are on. If a student runs into any problems while doing their assignment, they can create an alert by clicking on the alert icon on the top. Once they click on the icon, they can put in a message along with their alert to notify the teacher that they have a problem. The student can also send an alert while in the chat menu. Instead of raising your hand or walking up to the professor at the front of the classroom, the student can simply create an alert and wait where they are until the professor addresses their issue. 
+  - In this user story, the student will always have the top menu bar active no matter what other application they are on. If a student runs into any problems while doing their assignment, they can create an alert by clicking on the alert icon on the top. Once they click on the icon, they can put in a message along with their alert to notify the teacher that they have a problem. The student can also send an alert while in the chat menu. Instead of raising their hand or walking up to the professor at the front of the classroom, the student can simply create an alert and wait where they are until the professor addresses their issue. 
 
 #### Demo Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4I2C-oEIqXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
