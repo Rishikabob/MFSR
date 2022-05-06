@@ -56,6 +56,31 @@ The User Stories below is what we implemented in our Student View prototype.
 
 ## B. Testing Protocol
 
+### Research Question
+**Does having a screen sharing application in an educational setting improve communication and effectiveness of the lectures?**
+
+### Testing Methodology
+- We will be using a mixed methodology for testing. Our team will use a factorial design of experimentation, and then focus groups to then gather the user’s opinions. We want to use a factorial design of testing to make sure that we are gathering data from all different majors and class levels. We want to be able to observe different independent variables in a setting where the application is being used, so we do not have to repeat the experiment a multitude of times. We will observe the effects of the experiment on different participants by gathering quantitative and qualitative data. We will also compare this data with our control group to look for any outliers or abnormalities. We plan on carrying out the experiment a few times to also ensure the accuracy of the results. We also want to employ the use of focus groups to gather intel on the user’s experience with the application. These focus groups will randomly sample from the pool of participants that we have. With their consent, we will question them on a few different things. For instance, we will ask for any concerns they had with the applications as well as any feature they enjoyed. We will also ask if they enjoyed the overall experience and whether they would like to see this application being implemented more throughout their university. This will allow for a deeper look into the effectiveness of the application that goes beyond the normal quantitative data. This can also give us the opportunity to better our produce and can into account any recommendations. With the data from both procedures combined, we can determine if the use of the software leads to a more effective classroom or not. 
+
+### Testing Procedure
+
+- **Informed Consent**
+  - To ensure that the experiment is being carried out ethically, each experiment will be fully voluntary, and the participants will have the option to opt out at any point during the procedure if they wish to do so. Each participant will also be informed of all the data being gathered -- qualitative and quantitative. We will explain the nature of the experiment as well as the expectations and goals. We will cover every step of the experiment and its significance. We also plan on gathering written consent to publish any findings if necessary. Participants will be given time to ask any questions and clear up any misconceptions before the experiment starts. 
+  - For the focus groups, we will randomly sample from the pool of participants. If picked, the participant will have the choice to not do the focus study. Participants can also volunteer to voice their opinions of the study if they wish to do so.
+
+- **Data Collection**
+  - We will be collecting quantitative and qualitative data. For the quantitative data, we plan on monitoring how long it takes for the professor to answer students' questions in both the experimental and control groups. We also want to see how fast the students are able to answer each other’s questions. Furthermore, we plan to keep track of how many questions are asked in a classroom with the application and how many questions are asked in a classroom without it. We want to be able to differentiate each data point by different class levels as well as majors. We want to answer which class level tends to increase in questions asked and time in which each question is answered the most? Which major? Why? What are some techniques we can recommend to the users to help them maximize their use of the product based on how their peers react? We want to put numbers to some questions and statements to help us evaluate the success of the product. For the professors, we are looking to see how many students the professors are able to reach in both the control groups and the experimental groups. 
+  - From our focus groups, we plan on gathering qualitative data. We want to ask questions that will expose the effect of the study on the students. We want to know their thoughts, concerns and opinions on the product. We plan on asking unbiased and non leading questions such as: 
+    > - Was it easy or difficult to get your questions answered in a timely manner? 
+    > - To what extent did you feel like you were helped with your question answered by students and professors alike?
+    > - Please rate your overall experience with the application on a scale of 1-5.
+  - We also wish to have a focus group for professors where we ask similar questions, but geared more towards them. 
+
+- **Analysis**
+  - We will analyze our quantitative data by comparing it to our control group. We will measure how long it takes for the professors and other students to answer and ask questions in a traditional classroom, as discussed above, and compare it to the data from the classroom where the application is being used. We are hoping to see a faster reaction time from both professors and students. For our qualitative data, we are looking for both negative and positive comments. Our plan is to categorize any comments and concerns based on the subject. 
+
+- **Testing procedures during a pandemic**
+  - To ensure the safety of all of our participants, we will follow the CDC guidelines for COVID-19 in schools and other educational settings. We will recommend the use of masks, and seat students at a safe distance from one another. The researchers, themselves, will be wearing masks. 
 
 ## C. Summary Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qh4kHWwRvIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
